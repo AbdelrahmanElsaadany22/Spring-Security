@@ -58,3 +58,4 @@ Spring Security بيحط مجموعة Filters قدام الـ Controllers.
 - Spring Security provides an API for custom application coding
 - Provides greater customization for specific app requirements
 
+----------------------
